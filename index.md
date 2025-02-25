@@ -39,7 +39,7 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 
 ---
 
-## PROVE IN ITINERE
+# PROVE IN ITINERE
 
 Gli studenti frequentanti possono accedere a una modalità d'esame alternativa, basata su prove intermedie. Le componenti di questa modalità sono:
 
@@ -55,7 +55,7 @@ Durante il corso verranno svolte diverse esercitazioni, la cui consegna è obbli
 
 ---
 
-##  Valutazione
+#  VALUTAZIONE
 
 ### Modalità standard (esame finale)
 - **Progetto**: fino a **15 punti**
