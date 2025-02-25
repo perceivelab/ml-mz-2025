@@ -15,12 +15,12 @@ layout: default
 
 **Ricevimento**: [Concordare via mail](#staff) 
 ---
-# ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
+# FORUM 
 {: #tag}
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
 
-## AVVISI
-- 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025 come previsto dal calendario accademico.
+# AVVISI
+- 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025.
 
 ---
 
