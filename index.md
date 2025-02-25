@@ -21,7 +21,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 - 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025 come previsto dal calendario accademico.
 
 
----
+
 # ESAME
 
 L'esame consiste in due fasi:
@@ -43,30 +43,30 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 
 Gli studenti frequentanti possono accedere a una modalità d'esame alternativa, basata su prove intermedie. Le componenti di questa modalità sono:
 
-### Prove intermedie di teoria
+### 📖 Prove intermedie di teoria
 1. **24/04/2025** – Esame scritto sugli argomenti trattati fino ai classificatori.
 2. **13/06/2025** – Colloquio orale sugli argomenti dal clustering alle CNN, con discussione degli homework.
 
-### Homework
+### 📝 Homework
 Durante il corso verranno assegnati **tre homework**. Le date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homework.md).
 
-### Consegna esercitazioni
+### 🏗️ Consegna esercitazioni
 Durante il corso verranno svolte diverse esercitazioni, la cui consegna è obbligatoria entro **due giorni** dalla lezione corrispondente. La consegna **completa** di tutte le esercitazioni è requisito necessario per accedere alla modalità d'esame tramite prove in itinere.
 
 ---
 
-#  VALUTAZIONE
+# VALUTAZIONE
 
-### Modalità standard (esame finale)
+### 📌 Modalità standard (esame finale)
 - **Progetto**: fino a **15 punti**
 - **Esame orale**: fino a **15 punti**
 
-### Modalità prove in itinere
+### 📌 Modalità prove in itinere
 - **Prova teorica**: fino a **15 punti**
 - **Homework**: fino a **15 punti**
 
----
 
+---
 # CONTATTI
 
 - *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
