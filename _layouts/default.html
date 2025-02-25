@@ -3,19 +3,21 @@
   <head>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" href={{ site.baseurl }}/css/main.css>
-    <meta name="viewport" content="width=device-width, initial-scale=0.9">
+    <meta name="viewport"  content="width=device-width, initial-scale=1">
   </head>
+
 
   <body>
     <header>
-      <div class="header-content">
-      <h1>Machine Learning M-Z 2025 @ UNICT</h1>
-        {% include navbar.html %}
-      </div>
+      {% include navbar.html %}
+      <h1>Database 2024-2025</h1>
     </header>
     
+    
     <div class="container">
+
       {{ content }}
+
     </div>
   
     <footer>
@@ -24,4 +26,5 @@
       </div>
     </footer>
   </body>
+
 </html>
