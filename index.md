@@ -13,7 +13,6 @@ layout: default
 | Martedì 08-11, Aula Oliveri |
 | Giovedì 14-17, D31 |
 
-**Ricevimento**: [Concordare via mail](#staff) 
 ---
 # FORUM 
 {: #tag}
@@ -70,6 +69,8 @@ Durante il corso verranno svolte diverse esercitazioni, la cui consegna è obbli
 
 ---
 # CONTATTI
+
+**Ricevimento**: [Concordare via mail]
 
 - *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
 - *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
