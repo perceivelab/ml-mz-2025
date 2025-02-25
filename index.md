@@ -44,8 +44,8 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 Gli studenti frequentanti possono accedere a una modalità d'esame alternativa, basata su prove intermedie. Le componenti di questa modalità sono:
 
 ### Prove intermedie di teoria
-1. **24/04/2025** – Esame scritto sugli argomenti trattati fino ai classificatori.
-2. **13/06/2025** – Colloquio orale sugli argomenti dal clustering alle CNN, con discussione degli homework.
+- **24/04/2025** – Esame scritto sugli argomenti trattati fino ai classificatori.
+- **13/06/2025** – Colloquio orale sugli argomenti dal clustering alle CNN, con discussione degli homework.
 
 ### Homework
 Durante il corso verranno assegnati **tre homework**. Le date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homework.md).
