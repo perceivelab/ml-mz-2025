@@ -6,7 +6,9 @@ layout: default
 
 **Prerequisiti**: Conoscenza preliminare di programmazione e i fondamenti di algebra lineare e analisi matematica.
 
-| Lezioni            |
+# ORARIO LEZIONI
+
+| Data e aula            |
 | :----------------: |
 | Martedì 08-11, Aula Oliveri |
 | Giovedì 14-17, D31 |
