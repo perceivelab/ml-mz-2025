@@ -1,0 +1,9 @@
+name: Machine Learning (M-Z) Course
+markdown: kramdown
+
+baseurl: "/ml-mz-25"
+url: "https://perceivelab.github.io"
+theme: jekyll-theme-cayman
+
+plugins:
+  - jemoji
