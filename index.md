@@ -16,7 +16,7 @@ layout: default
 ---
 # FORUM 
 {: #tag}
-Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
+Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/f7uFfzZGqd).
 
 # AVVISI
 - 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025.
