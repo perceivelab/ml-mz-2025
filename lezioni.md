@@ -6,7 +6,7 @@ layout: page
 
 | Lezione | Argomento                               | Data                | Materiali |
 |---------|-----------------------------------------|----------------------|--------|
-| 1       | Introduzione                            | 6 marzo 2025         | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETF-_B4gGzdIvfz6ffqPbKMBpkC4DSxX1DLfWIsGbHTqdg?e=OCMiVD), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EXPh3Nw5WEBNit7OdnqhhkUBN0WnnFLZ2lvdLT3AM60NCQ?e=nManUp)       |
+| 1       | Introduzione                            | 6 marzo 2025         | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETF-_B4gGzdIvfz6ffqPbKMBpkC4DSxX1DLfWIsGbHTqdg?e=OCMiVD), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EXPh3Nw5WEBNit7OdnqhhkUBN0WnnFLZ2lvdLT3AM60NCQ?e=nManUp), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EW2fV561k5BKmveVgiEqSN8BXXdf0aimf0o2f6lKV_dJ5A?e=vCfouT)       |
 | 2       | Introduzione a Python 1/2              | 11 marzo 2025        |        | 
 | 3       | Introduzione a Python 2/2              | 13 marzo 2025        |        | 
 | 4       | Feature reduction: PCA                 | 18 marzo 2025        |        | 
