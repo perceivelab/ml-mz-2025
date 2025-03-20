@@ -10,7 +10,7 @@ layout: page
 | 2       | Introduzione a Python 1/2              | 11 marzo 2025        | [Codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EWqh4iD8-EhBr-V3OJVqQdIB778Z3Dt82y98fgQ6sxlsDA?e=3W0cSd)       | 
 | 3       | Introduzione a Python 2/2              | 13 marzo 2025        |   [Codice](https://drive.google.com/file/d/1eZbS30ysBuDCuQQM1yAQZHp1tJHTdaqu/view?usp=sharing)     | 
 | 4       | Feature reduction: PCA                 | 18 marzo 2025        | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQObQpW5YhZFoKybqCIvdg4BYC-EeYSGUvrq9xnEfYWBDQ?e=CJWyx9), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EeOwCQgs2mJPoLAFNu90AeMBmLVHfIdvJ-XZ4GWoUC8_dw?e=Ue12yg), [codice dispense](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EUOUhCFjMxpNom1MbReuyswBGV6o9IvRlbkoZMfnN358Tw?e=25i6Lc)       | 
-| 5       | Esercitazione PCA                      | 20 marzo 2025        |        | 
+| 5       | Esercitazione PCA                      | 20 marzo 2025        | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EZe2Yn_SnHZCuq5wHQTVytMB1BANnjtKy-JarJWowM41Yw?e=w6j5Uh)       | 
 | 6       | Regressione lineare                    | 25 marzo 2025        |        | 
 | 7       | Esercitazione regressione lineare      | 27 marzo 2025        |        | 
 | 8       | Classificatori: SVM                    | 1 aprile 2025        |        | 
