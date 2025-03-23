@@ -7,6 +7,7 @@ layout: page
 #### Stato consegne
 
 Ultimo aggiornamento: 23-03-2025 13:43:13
+
 | Matricola | ml_ex_1 |
 | --- | --- |
 | 1000021006 |:heavy_check_mark:|
