@@ -6,9 +6,8 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 23-03-2025 13:43:13
-
-| Matricola | ml_ex_1 |
+Ultimo aggiornamento: 23-03-2025 18:58:34
+| Matricola | Es. PCA |
 | --- | --- |
 | 1000021006 |:heavy_check_mark:|
 | 1000057375 |:heavy_check_mark:|
@@ -63,4 +62,5 @@ Ultimo aggiornamento: 23-03-2025 13:43:13
 | 1000064219 |:heavy_check_mark:|
 | 1000064902 |:heavy_check_mark:|
 | 1000064946 |:heavy_check_mark:|
+| 1000065661 |:x:|
 | 1000085167 |:heavy_check_mark:|
