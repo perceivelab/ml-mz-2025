@@ -6,7 +6,8 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 23-03-2025 18:58:34
+Ultimo aggiornamento: 23-03-2025 18:59:43
+
 | Matricola | Es. PCA |
 | --- | --- |
 | 1000021006 |:heavy_check_mark:|
