@@ -6,11 +6,12 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 23-03-2025 18:59:43
+Ultimo aggiornamento: 24-03-2025 15:02:12
 
-| Matricola | Es. PCA |
+| Matricola | First exercise |
 | --- | --- |
 | 1000021006 |:heavy_check_mark:|
+| 1000045183 |:heavy_check_mark:|
 | 1000057375 |:heavy_check_mark:|
 | 1000057391 |:x:|
 | 1000057483 |:heavy_check_mark:|
@@ -30,11 +31,12 @@ Ultimo aggiornamento: 23-03-2025 18:59:43
 | 1000059524 |:heavy_check_mark:|
 | 1000059678 |:heavy_check_mark:|
 | 1000059751 |:x:|
+| 1000059819 |:x:|
 | 1000059825 |:heavy_check_mark:|
 | 1000059840 |:heavy_check_mark:|
 | 1000059861 |:heavy_check_mark:|
 | 1000059938 |:heavy_check_mark:|
-| 1000059971 |:x:|
+| 1000059971 |:heavy_check_mark:|
 | 1000059986 |:heavy_check_mark:|
 | 1000059998 |:heavy_check_mark:|
 | 1000060171 |:heavy_check_mark:|
@@ -47,7 +49,7 @@ Ultimo aggiornamento: 23-03-2025 18:59:43
 | 1000060679 |:heavy_check_mark:|
 | 1000061221 |:heavy_check_mark:|
 | 1000061305 |:heavy_check_mark:|
-| 1000061894 |:x:|
+| 1000061894 |:heavy_check_mark:|
 | 1000062133 |:heavy_check_mark:|
 | 1000062280 |:heavy_check_mark:|
 | 1000062483 |:x:|
@@ -61,7 +63,9 @@ Ultimo aggiornamento: 23-03-2025 18:59:43
 | 1000063557 |:x:|
 | 1000064112 |:x:|
 | 1000064219 |:heavy_check_mark:|
+| 1000064648 |:heavy_check_mark:|
 | 1000064902 |:heavy_check_mark:|
 | 1000064946 |:heavy_check_mark:|
 | 1000065661 |:x:|
+| 1000083946 |:x:|
 | 1000085167 |:heavy_check_mark:|
