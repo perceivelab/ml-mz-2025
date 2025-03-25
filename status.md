@@ -6,21 +6,21 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 24-03-2025 15:02:12
+Ultimo aggiornamento: 25-03-2025 11:07:11
 
-| Matricola | First exercise |
+| Matricola | Ex. 1 - PCA |
 | --- | --- |
 | 1000021006 |:heavy_check_mark:|
 | 1000045183 |:heavy_check_mark:|
 | 1000057375 |:heavy_check_mark:|
-| 1000057391 |:x:|
+| 1000057391 |:heavy_check_mark:|
 | 1000057483 |:heavy_check_mark:|
 | 1000057691 |:heavy_check_mark:|
 | 1000057842 |:heavy_check_mark:|
 | 1000057873 |:heavy_check_mark:|
 | 1000057958 |:heavy_check_mark:|
 | 1000058071 |:heavy_check_mark:|
-| 1000058121 |:x:|
+| 1000058121 |:heavy_check_mark:|
 | 1000058373 |:heavy_check_mark:|
 | 1000058506 |:heavy_check_mark:|
 | 1000058536 |:heavy_check_mark:|
@@ -30,8 +30,8 @@ Ultimo aggiornamento: 24-03-2025 15:02:12
 | 1000059452 |:heavy_check_mark:|
 | 1000059524 |:heavy_check_mark:|
 | 1000059678 |:heavy_check_mark:|
-| 1000059751 |:x:|
-| 1000059819 |:x:|
+| 1000059751 |:heavy_check_mark:|
+| 1000059819 |:hourglass:|
 | 1000059825 |:heavy_check_mark:|
 | 1000059840 |:heavy_check_mark:|
 | 1000059861 |:heavy_check_mark:|
