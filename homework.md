@@ -19,8 +19,8 @@ Per partecipare agli homework e alle esercitazioni, è necessario [compilare que
 
 | Homework | Argomento          | Assegnazione    | Consegna       | Specifiche   | 
 | :-------:| ------------------ | --------------- | ---------------|--------------|
-| HW1      | Regressione lineare| 25 marzo   | 18 aprile |              | 
-| HW2      | Classificatori     | 10 aprile  | 04 maggio |              | 
+| HW1      | Regressione lineare| 1 aprile   | 25 aprile |              | 
+| HW2      | Classificatori     | 10 aprile  | 4 maggio |              | 
 | HW3      | Reti neurali       | 20 maggio  | 13 giugno |              | 
 
 
