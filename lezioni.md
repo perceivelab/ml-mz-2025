@@ -13,7 +13,7 @@ layout: page
 | 5       | Esercitazione PCA                      | 20 marzo 2025        | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EZe2Yn_SnHZCuq5wHQTVytMB1BANnjtKy-JarJWowM41Yw?e=w6j5Uh) (`ml_ex_1`)       | 
 | 6       | Regressione lineare                    | 25 marzo 2025        | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWwpjXmUYoVNrpPiAlAZSssBxTSX7-uJ6OjwO5NuBtlN6w?e=p2bqAJ), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETYgHJJQJq9ArwBl9zDPr8sBzvujEdoLwR2yxW8udVunjA?e=lgggdz)       | 
 | 7       | Classificatori: SVM      | 27 marzo 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERksvOCk4FNBrmeoioPZZ1MBMeMjyORVajSvejP6XepsGA?e=UcaWNP), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EQkGWNE2UztFrHOoYe9TqCcBeVt57OyOEE7xoPZ9TCYvNA?e=fbFRIt)      | 
-| 8       | Esercitazione regressione lineare                    | 1 aprile 2025        |        | 
+| 8       | Esercitazione regressione lineare                    | 1 aprile 2025        | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EceYFgjCpddFh_4kasL2Ye8BkGEKIFxr2PxWZtmyBVjrFg?e=leF8SX) (`ml_ex_2`)      | 
 | 9       | Esercitazione classificatori          | 3 aprile 2025        |        |  
 | 10      | Classificatori: kNN, decision tree     | 8 aprile 2025        |        | 
 | 11      | Esercitazione classificatori          | 10 aprile 2025       |        |  
