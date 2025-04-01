@@ -10,7 +10,7 @@ Nello specifico, i requisiti dell'homework sono:
 * scrivere la funzione `pipeline()`, che riceve un training set, un validation/test set e un insieme di iperparametri, e allena un modello di regressione lineare. In particolare, la funzione deve:
   * se richiesto, applicare la PCA, utilizzando un numero specifico di componenti (passato come iperparametro) e opzionalmente standardizzando i dati;
   * se richiesto, applicare la standardizzazione dei dati (a prescindere che questa sia stata o meno fatta durante la PCA);
-  * se richiesto, applicare la regolarizzazione;
+  * se richiesto, applicare la regolarizzazione L2;
   * allenare il modello di regressione lineare;
   * calcolare MAE per training set e validation/test set;
 * dividere il dataset in training set, validation set e test set;
@@ -18,7 +18,7 @@ Nello specifico, i requisiti dell'homework sono:
   * considerate che ciascun allenamento può modificare i dati (ad esempio, tramite standardizzazione); pertanto, ogni volta che allenate un modello dovreste sempre lavorare su [una nuova copia dei dati](https://numpy.org/doc/2.2/reference/generated/numpy.ndarray.copy.html);
 * valutare le prestazioni del modello selezionato sul test set;
 * visualizzare:
-  * la migliore configurazione;
+  * la migliore configurazione di iperparametri;
   * il miglior MAE sul validation set;
   * il MAE corrispondente sul training set;
   * il MAE corrispondente sul test set. 
