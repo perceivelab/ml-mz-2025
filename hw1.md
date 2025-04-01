@@ -16,7 +16,8 @@ Nello specifico, i requisiti dell'homework sono:
 * dividere il dataset in training set, validation set e test set;
 * tramite `pipeline()`, valutare tutte le configurazioni possibili di iperparametri, e selezionare quella che ottiene le migliori prestazioni sul validation set;
   * considerate che ciascun allenamento può modificare i dati (ad esempio, tramite standardizzazione); pertanto, ogni volta che allenate un modello dovreste sempre lavorare su [una nuova copia dei dati](https://numpy.org/doc/2.2/reference/generated/numpy.ndarray.copy.html);
-* valutare le prestazioni del modello selezionato sul test set;
+* riallenare la configurazione selezionata sul training set completo (training set + validation set);
+* valutare le prestazioni del modello finale sul test set;
 * visualizzare:
   * la migliore configurazione di iperparametri;
   * il miglior MAE sul validation set;
