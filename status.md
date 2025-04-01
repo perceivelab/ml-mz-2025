@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 31-03-2025 10:46:31
+Ultimo aggiornamento: 01-04-2025 08:27:50
 
 | Matricola | Ex. 1 - PCA |
 | --- | --- |
