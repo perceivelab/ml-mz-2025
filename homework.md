@@ -14,6 +14,7 @@ Per partecipare agli homework e alle esercitazioni, è necessario [compilare que
 | ------------------ | --------------- | ---------------|--------------|
 | PCA                 | 20 marzo  | 24 marzo | Nome repository: `ml_ex_1` | 
 | Regressione lineare | 1 aprile  | 4 aprile | Nome repository: `ml_ex_2` | 
+| Classificatori: parte 1 | 3 aprile  | 6 aprile | Nome repository: `ml_ex_3` | 
 
 
 ### HOMEWORK
