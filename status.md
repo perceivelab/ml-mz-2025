@@ -6,11 +6,11 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 04-04-2025 10:20:21
+Ultimo aggiornamento: 04-04-2025 12:36:58
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Regressione lineare|Ex. 3 - Classificatori pt. 1|Homework 1 |
 | --- | ---|---|---|--- |
-| 1000021006 |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000021006 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045183 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057375 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057391 |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
