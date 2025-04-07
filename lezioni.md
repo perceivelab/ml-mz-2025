@@ -15,18 +15,17 @@ layout: page
 | 7       | Classificatori: SVM      | 27 marzo 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERksvOCk4FNBrmeoioPZZ1MBMeMjyORVajSvejP6XepsGA?e=UcaWNP), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EQkGWNE2UztFrHOoYe9TqCcBeVt57OyOEE7xoPZ9TCYvNA?e=fbFRIt)      | 
 | 8       | Esercitazione regressione lineare                    | 1 aprile 2025        | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EceYFgjCpddFh_4kasL2Ye8BkGEKIFxr2PxWZtmyBVjrFg?e=leF8SX) (`ml_ex_2`)      | 
 | 9       | Esercitazione classificatori          | 3 aprile 2025        |   [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/ERXo2TaP4y1HsHbp2et_EgQB1R8RCy7G98rNTjVtBhXZSw?e=W1gkuS)   (`ml_ex_3`)   |  
-| 10      | Classificatori: kNN, decision tree     | 8 aprile 2025        |        | 
-| 11      | Esercitazione classificatori          | 10 aprile 2025       |        |  
-| 12      | **Prima prova in itinere**             | 17 aprile 2025       |        | 
-| 13      | Esercitazione classificatori complessiva | 24 aprile 2025    |        |  
-| 14      | Clustering                             | 29 aprile 2025       |        | 
-| 15      | Esercitazione clustering               | 6 maggio 2025        |        | 
-| 16      | Ensemble methods                       | 13 maggio 2025       |        | 
-| 17      | Esercitazione ensemble methods        | 15 maggio 2025       |        |  
-| 18      | Reti neurali                          | 20 maggio 2025       |        |  
-| 19      | Reti neurali                          | 22 maggio 2025       |        |  
-| 20      | Esercitazione reti neurali            | 27 maggio 2025       |        |  
-| 21      | Esercitazione complessiva             | 29 maggio 2025       |        |  
-| 22      | CNN                                   | 3 giugno 2025        |        |  
-| 23      | CNN                                   | 5 giugno 2025        |        |  
-| 24      | **Seconda prova in itinere**          | 13 giugno 2025       |        |  
+| 10      | Classificatori: kNN, decision tree     | 8 aprile 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Eal1jnXkn_FNmLEEGLj8_6wBrJegQTOrZJkODdXPy6Yjag?e=98c3de)      | 
+| 11      | **Prima prova in itinere**             | 17 aprile 2025       |        | 
+| 12      | Esercitazione classificatori complessiva | 24 aprile 2025    |        |  
+| 13      | Clustering                             | 29 aprile 2025       |        | 
+| 14      | Esercitazione clustering               | 6 maggio 2025        |        | 
+| 15      | Ensemble methods                       | 13 maggio 2025       |        | 
+| 16      | Esercitazione ensemble methods        | 15 maggio 2025       |        |  
+| 17      | Reti neurali                          | 20 maggio 2025       |        |  
+| 18      | Reti neurali                          | 22 maggio 2025       |        |  
+| 19      | Esercitazione reti neurali            | 27 maggio 2025       |        |  
+| 20      | Esercitazione complessiva             | 29 maggio 2025       |        |  
+| 21      | CNN                                   | 3 giugno 2025        |        |  
+| 22      | CNN                                   | 5 giugno 2025        |        |  
+| 23      | **Seconda prova in itinere**          | 13 giugno 2025       |        |  
