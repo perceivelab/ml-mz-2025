@@ -15,7 +15,7 @@ layout: page
 | 7       | Classificatori: SVM      | 27 marzo 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERksvOCk4FNBrmeoioPZZ1MBMeMjyORVajSvejP6XepsGA?e=UcaWNP), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EaQ7FEL2UfRNokCzWoANrXoBMGip_MBoPCO2Qy_QFcFB7A?e=2bWgmR)      | 
 | 8       | Esercitazione regressione lineare                    | 1 aprile 2025        | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EceYFgjCpddFh_4kasL2Ye8BkGEKIFxr2PxWZtmyBVjrFg?e=leF8SX) (`ml_ex_2`)      | 
 | 9       | Esercitazione classificatori          | 3 aprile 2025        |   [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/ERXo2TaP4y1HsHbp2et_EgQB1R8RCy7G98rNTjVtBhXZSw?e=W1gkuS)   (`ml_ex_3`)   |  
-| 10      | Classificatori: kNN, decision tree     | 8 aprile 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ET6tNpUnOhlDjnIxw2gMrywBxiUGvwpELEIoPG8bqqENjA?e=C5Kand)      | 
+| 10      | Classificatori: kNN, decision tree     | 8 aprile 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ET6tNpUnOhlDjnIxw2gMrywBxiUGvwpELEIoPG8bqqENjA?e=C5Kand), [Esercitazione](https://drive.google.com/file/d/1P0EXllhdRTBTGv4kVTfHvMYTWr87sbhP/view?usp=sharing)      | 
 | 11      | **Prima prova in itinere**             | 17 aprile 2025       |        | 
 | 12      | Esercitazione classificatori complessiva | 24 aprile 2025    |        |  
 | 13      | Clustering                             | 29 aprile 2025       |        | 
