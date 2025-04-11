@@ -4,7 +4,7 @@ layout: page
 
 ## Homework 2
 
-Questo homework ha l'obiettivo di affrontare un problema di classificazione, cercando di ottenere le migliori prestazioni possibili, utilizzando i modelli e le metodologie di viste a lezione.
+Questo homework ha l'obiettivo di affrontare un problema di classificazione, cercando di ottenere le migliori prestazioni possibili, utilizzando i modelli e le metodologie viste a lezione.
 Il dataset da utilizzare è **CIFAR10**: contiene 60,000 immagini (50,000 di training e 10,000 di test) divise in 10 classi, a risoluzione 32x32 pixel, a colori. [Questa](https://www.cs.toronto.edu/~kriz/cifar.html) è la pagina di riferimento del dataset.
 
 Nello specifico, i requisiti dell'homework sono:
@@ -19,7 +19,7 @@ Nel caso in cui l'allenamento dei modelli risulti eccessivamente dispensioso in 
 
 ### Consegna
 
-La consegna del MHW dovrà essere effettuata su GitHub, in un repository chiamato **esattamente** `hw1`, e dovrà includere:
+La consegna del MHW dovrà essere effettuata su GitHub, in un repository chiamato **esattamente** `hw2`, e dovrà includere:
 * il notebook contenente la soluzione;
 * una presentazione in PowerPoint, da esporre in sede di esame, che includa:
   * descrizione del dataset;
