@@ -15,7 +15,7 @@ Nello specifico, i requisiti dell'homework sono:
 
 La strategia di esecuzione di ciascuna di queste fasi è a scelta dello studente. La valutazione dell'homework terrà conto della correttezza metodologica, della correttezza dell'implementazione e della completezza dell'approccio di ricerca del modello migliore.
 
-Qualora riscontriate che i tempi di allenamento sono troppo elevati, potete valutare l'ipotesi di sotto-campionamento del dataset.
+Nel caso in cui l'allenamento dei modelli risulti eccessivamente dispensioso in termini di tempo, è possibile valutare l'ipotesi di sotto-campionamento del dataset.
 
 ### Consegna
 
