@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 14-04-2025 11:12:27
+Ultimo aggiornamento: 15-04-2025 12:17:12
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Regressione lineare|Ex. 3 - Classificatori pt. 1|Homework 1 |
 | --- | ---|---|---|--- |
@@ -28,13 +28,13 @@ Ultimo aggiornamento: 14-04-2025 11:12:27
 | 1000058943 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059088 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059364 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000059452 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000059452 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000059524 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059678 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059751 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059819 |:hourglass:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000059825 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000059840 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000059840 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000059861 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059938 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059971 |:heavy_check_mark:|:x:|:x:|:x:|
