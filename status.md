@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 18-04-2025 12:13:08
+Ultimo aggiornamento: 19-04-2025 12:19:43
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Reg. lineare|Ex. 3 - Classificatori|Homework 1 |
 | --- | ---|---|---|--- |
@@ -63,7 +63,7 @@ Ultimo aggiornamento: 18-04-2025 12:13:08
 | 1000063414 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000063557 |:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:x:|
 | 1000064112 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000064219 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000064219 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000064648 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000064902 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000064946 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
