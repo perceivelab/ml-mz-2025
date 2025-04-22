@@ -6,13 +6,13 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 19-04-2025 12:19:43
+Ultimo aggiornamento: 22-04-2025 10:39:50
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Reg. lineare|Ex. 3 - Classificatori|Homework 1 |
 | --- | ---|---|---|--- |
 | 1000021006 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045183 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000057375 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000057375 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000057391 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057483 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057691 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -20,7 +20,7 @@ Ultimo aggiornamento: 19-04-2025 12:19:43
 | 1000057873 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057958 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000058071 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000058121 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000058121 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000058373 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000058484 |:x:|:x:|:x:|:x:|
 | 1000058506 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
