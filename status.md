@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 23-04-2025 10:12:56
+Ultimo aggiornamento: 23-04-2025 11:48:26
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Reg. lineare|Ex. 3 - Classificatori|Homework 1|Homework 2 |
 | --- | ---|---|---|---|--- |
