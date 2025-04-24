@@ -6,11 +6,11 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 24-04-2025 10:18:49
+Ultimo aggiornamento: 24-04-2025 17:03:08
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Reg. lineare|Ex. 3 - Classificatori|Homework 1|Homework 2 |
 | --- | ---|---|---|---|--- |
-| 1000021006 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000021006 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045183 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 | 1000057375 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057391 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
@@ -23,14 +23,14 @@ Ultimo aggiornamento: 24-04-2025 10:18:49
 | 1000058121 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000058373 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000058484 |:x:|:x:|:x:|:x:|:x:|
-| 1000058506 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000058506 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000058536 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000058943 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000059088 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000059088 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059364 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 | 1000059452 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059524 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
-| 1000059678 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000059678 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059751 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 | 1000059819 |:hourglass:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000059825 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
@@ -50,7 +50,7 @@ Ultimo aggiornamento: 24-04-2025 10:18:49
 | 1000060679 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000061221 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 | 1000061305 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
-| 1000061894 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000061894 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000062133 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000062280 |:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:heavy_check_mark:|:x:|
 | 1000062483 |:x:|:x:|:x:|:x:|:x:|
@@ -66,7 +66,7 @@ Ultimo aggiornamento: 24-04-2025 10:18:49
 | 1000064219 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000064648 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 | 1000064902 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
-| 1000064946 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000064946 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000065661 |:x:|:x:|:x:|:x:|:x:|
 | 1000083946 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
 | 1000085167 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
