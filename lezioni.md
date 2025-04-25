@@ -17,7 +17,7 @@ layout: page
 | 9       | Esercitazione classificatori          | 3 aprile 2025        |   [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/ERXo2TaP4y1HsHbp2et_EgQB1R8RCy7G98rNTjVtBhXZSw?e=W1gkuS)   (`ml_ex_3`)   |  
 | 10      | Classificatori: kNN, decision tree     | 8 aprile 2025        |  [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ETcYXZ1qJm5JkfA8UeFonoABJ-HHb3tFvQvZXH3KlwRPrQ?e=X0UxWf), [Esercitazione](https://drive.google.com/file/d/1P0EXllhdRTBTGv4kVTfHvMYTWr87sbhP/view?usp=sharing)      | 
 | 11      | **Prima prova in itinere**             | 17 aprile 2025       |        | 
-| 12      | Esercitazione classificatori complessiva | 24 aprile 2025    |    [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EZP60g0dReVJgqEGq1FNPO0Bcs5X0G8wkAIyQ3z4ciAejQ?e=CtpZKl) (`ml_ex_3`)|  
+| 12      | Esercitazione classificatori complessiva | 24 aprile 2025    |    [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EZP60g0dReVJgqEGq1FNPO0Bcs5X0G8wkAIyQ3z4ciAejQ?e=CtpZKl) (`ml_ex_4`)|  
 | 13      | Clustering                             | 29 aprile 2025       |        | 
 | 14      | Esercitazione clustering               | 6 maggio 2025        |        | 
 | 15      | Ensemble methods                       | 13 maggio 2025       |        | 
