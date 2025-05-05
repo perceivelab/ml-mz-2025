@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 05-05-2025 10:47:24
+Ultimo aggiornamento: 05-05-2025 15:49:08
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Reg. lineare|Ex. 3 - Classificatori 1|Homework 1|Ex. 4 - Classificatori 2|Homework 2 |
 | --- | ---|---|---|---|---|--- |
@@ -16,7 +16,7 @@ Ultimo aggiornamento: 05-05-2025 10:47:24
 | 1000057391 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057483 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000057691 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000057842 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000057842 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000057873 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
 | 1000057958 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000058071 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -39,7 +39,7 @@ Ultimo aggiornamento: 05-05-2025 10:47:24
 | 1000059938 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|
 | 1000059971 |:heavy_check_mark:|:x:|:x:|:x:|:x:|:x:|
 | 1000059986 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000059998 |:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+| 1000059998 |:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | 1000060171 |:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 | 1000060277 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000060342 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
