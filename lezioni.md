@@ -19,7 +19,7 @@ layout: page
 | 11      | **Prima prova in itinere**             | 17 aprile 2025       |        | 
 | 12      | Esercitazione classificatori complessiva | 24 aprile 2025    |    [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/EZP60g0dReVJgqEGq1FNPO0Bcs5X0G8wkAIyQ3z4ciAejQ?e=CtpZKl) (`ml_ex_4`)|  
 | 13      | Clustering                             | 29 aprile 2025       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYIWJbUvHkRHuTUpOAgzbRQB9F_ICDy_3JwhF3Yb2N9-nQ?e=KGXicb), [dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EWBkEPCG9k1OlzcbJxxP2SABIeRF-eqUMtem7_HJZ3Xvqw?e=S2hEYd)       | 
-| 14      | Esercitazione clustering               | 6 maggio 2025        |        | 
+| 14      | Esercitazione clustering               | 6 maggio 2025        | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/Ed8cih5GWw5Mt78pdd5qbcABRgeDX8MnxFJeu5j6Csdz3A?e=JH9tBh)       | 
 | 15      | Ensemble methods                       | 13 maggio 2025       |        | 
 | 16      | Esercitazione ensemble methods        | 15 maggio 2025       |        |  
 | 17      | Reti neurali                          | 20 maggio 2025       |        |  
