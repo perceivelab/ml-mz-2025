@@ -16,7 +16,7 @@ Per partecipare agli homework e alle esercitazioni, è necessario [compilare que
 | Regressione lineare | 1 aprile  | 4 aprile | Nome repository: `ml_ex_2` | 
 | Classificatori: parte 1 | 3 aprile  | 6 aprile | Nome repository: `ml_ex_3` | 
 | Classificatori: parte 2 | 24 aprile  | 28 aprile | Nome repository: `ml_ex_4` | 
-
+| Clustering | 6 Maggio  | 9 Maggio | Nome repository: `ml_ex_5` | 
 
 
 ### HOMEWORK
