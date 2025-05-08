@@ -19,8 +19,7 @@ layout: default
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/f7uFfzZGqd).
 
 # AVVISI
-- 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025.
-
+- [Risultati della prova in itinere](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
 ---
 
 # ESAME
