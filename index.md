@@ -13,15 +13,13 @@ layout: default
 | Martedì 08-11, Aula Oliveri |
 | Giovedì 14-17, D31 |
 
----
 # FORUM 
 {: #tag}
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/f7uFfzZGqd).
 
 # AVVISI
 
-- Risultati della prova in itinere: [link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
----
+Risultati della prova in itinere del 17/04/2025: [link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
 
 # ESAME
 
