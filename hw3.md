@@ -5,7 +5,8 @@ layout: page
 ## Homework 3
 
 Questo homework ha l'obiettivo di affrontare un problema di classificazione su un dataset affetto da rumore nel training set che può portare a overfit. La soluzione deve essere basata sull'uso di reti neurali. 
-Il dataset da utilizzare è una variante di CIFAR10, che può essere inclusa in Kaggle attraverso questo link: https://www.kaggle.com/datasets/alessiomasano/cifar10-hw3. 
+Il dataset da utilizzare è una variante di CIFAR10, che può essere inclusa in Kaggle attraverso questo link:
+[https://www.kaggle.com/datasets/alessiomasano/cifar10-hw3](https://www.kaggle.com/datasets/alessiomasano/cifar10-hw3).
 
 Nello specifico, i requisiti dell'homework sono:
 * caricare correttamente il dataset;
