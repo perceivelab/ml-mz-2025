@@ -11,6 +11,7 @@ Il dataset da utilizzare è una variante di CIFAR10, che può essere inclusa in 
 Nello specifico, i requisiti dell'homework sono:
 * caricare correttamente il dataset;
 * utilizzare MLP;
+* adottare opportuni accorgimenti per evitare l'overfit;
 * effettuare opportunamente la model selection;
 * riportare le prestazioni ottenute, secondo le metriche di valutazione appropriate.
 
