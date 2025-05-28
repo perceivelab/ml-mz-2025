@@ -24,7 +24,7 @@ layout: page
 | 16      | Esercitazione ensemble methods        | 15 maggio 2025       |   [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/concetto_spampinato_unict_it/ETn8LBLsHZBNuYy2UC-pwAQBtzgf5sAPTKB7M9kBwzW5Og?e=fMtQ3t)   (`ml_ex_6`)  |  
 | 17      | Reti neurali                          | 20 maggio 2025       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EY7hr_54zhpBslG9gpveibEBLeEzKdbs2cq5RgnlGl2WDQ?e=l232X1), [Dispense](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaCaL5kHll9HpzKshFnSWdEBRM7EFyNQ6O8ABhsZ1A7s4A?e=gNcLWu)       |  
 | 18      | Reti neurali                          | 22 maggio 2025       |        |  
-| 19      | Esercitazione reti neurali            | 27 maggio 2025       | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EWQxxTHDqnFLhuOy75Y7kgwBbgjUBdq_ZKKu080RfhSUlw?e=NTIfzb)       |  
+| 19      | Esercitazione reti neurali            | 27 maggio 2025       | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EWQxxTHDqnFLhuOy75Y7kgwBbgjUBdq_ZKKu080RfhSUlw?e=NTIfzb)  (`ml_ex_7`)     |  
 | 20      | Esercitazione complessiva             | 29 maggio 2025       |        |  
 | 21      | CNN                                   | 3 giugno 2025        |        |  
 | 22      | CNN                                   | 5 giugno 2025        |        |  
