@@ -26,5 +26,5 @@ layout: page
 | 18      | Reti neurali                          | 22 maggio 2025       |        |  
 | 19      | Esercitazione reti neurali            | 27 maggio 2025       | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EWQxxTHDqnFLhuOy75Y7kgwBbgjUBdq_ZKKu080RfhSUlw?e=NTIfzb)  (`ml_ex_7`)     |  
 | 20      | Esercitazione complessiva             | 29 maggio 2025       | [Esercitazione](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EVnrNxwCBh5FoichmLrDr-MBoNiK_q1eU1sN2ZFh5Gg8lg?e=O7bHwe) (`ml_ex_8`)      |  
-| 21      | CNN                                   | 5 giugno 2025        |        |  
+| 21      | CNN                                   | 5 giugno 2025        |   [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ESANtPCdkhRHpqT62l1Vh0gBJWjtWEh0jgou_hpKsdeGEQ?e=QKHTTd)     |  
 | 22      | **Seconda prova in itinere**          | dal 13 giugno 2025   |        |  
