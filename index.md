@@ -19,7 +19,8 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 # AVVISI
 
-Risultati della prova in itinere del 17/04/2025: [link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
+- [Prova in itinere 17/04/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
+- [Esami 13/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbXdEwFx7wNEve1d5yTyg0QBpmFNUYKASby5Bf88cG_Pvg?e=vUA4ZZ)
 
 # ESAME
 
@@ -35,10 +36,6 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 - **11/07/2025**
 - **03/09/2025**
 - **25/09/2025**
-
-### Pubblicazione risultati
-
-- [13/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbXdEwFx7wNEve1d5yTyg0QBpmFNUYKASby5Bf88cG_Pvg?e=vUA4ZZ)
 
 ---
 
