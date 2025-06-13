@@ -36,6 +36,10 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 - **03/09/2025**
 - **25/09/2025**
 
+### Pubblicazione risultati
+
+- [13/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbXdEwFx7wNEve1d5yTyg0QBpmFNUYKASby5Bf88cG_Pvg?e=vUA4ZZ)
+
 ---
 
 # PROVE IN ITINERE
