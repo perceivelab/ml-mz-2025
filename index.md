@@ -21,6 +21,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 - [Prova in itinere 17/04/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
 - [Esami 13/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbXdEwFx7wNEve1d5yTyg0QBpmFNUYKASby5Bf88cG_Pvg?e=vUA4ZZ)
+- [Esami 18/06/2025 (prove in itinere)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ8P35iHhTdArP8B_mjhnc0BdXcntvt0DP_f8h0OEvPkqw?e=M7ItiH)
 
 # ESAME
 
