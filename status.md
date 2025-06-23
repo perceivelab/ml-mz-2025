@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 20-06-2025 11:01:40
+Ultimo aggiornamento: 23-06-2025 10:28:16
 
 | Matricola | Ex. 1 - PCA|Ex. 2 - Reg. lineare|Ex. 3 - Classificatori 1|Hw 1|Ex. 4 - Classificatori 2|Hw 2|Ex. 5 - Clustering|Ex. 6 - Ensemble|Ex. 7 - Reti neurali|Ex. 8 - Complessiva|Hw 3 |
 | --- | ---|---|---|---|---|---|---|---|---|---|--- |
@@ -61,7 +61,7 @@ Ultimo aggiornamento: 20-06-2025 11:01:40
 | 1000062891 |:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 1000063376 |:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 | 1000063414 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000063557 |:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| 1000063557 |:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000064112 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|
 | 1000064219 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000064648 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:hourglass:|:hourglass:|:hourglass:|:hourglass:|:hourglass:|:heavy_check_mark:|:hourglass:|:heavy_check_mark:|
