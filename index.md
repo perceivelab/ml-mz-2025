@@ -36,7 +36,7 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 
 ### Appelli ufficiali 2025
 - **18/06/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUf8kxKST1pAqirR9iNFoFUB3UrCyAiErPF6OWTrm2FR6A?e=ds00bw)
-- **11/07/2025**
+- **11/07/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EdzQvSK97TZMuJD1ovatVWgBotTkV4ZV-6g4Uc11nPrqUg?e=8FbX4A)
 - **03/09/2025**
 - **25/09/2025**
 
