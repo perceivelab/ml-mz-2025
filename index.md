@@ -19,11 +19,12 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 # AVVISI
 
-- [Prova in itinere 17/04/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
-- [Esami 13/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbXdEwFx7wNEve1d5yTyg0QBpmFNUYKASby5Bf88cG_Pvg?e=vUA4ZZ)
-- [Esami 18/06/2025 (prove in itinere)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ8P35iHhTdArP8B_mjhnc0BdXcntvt0DP_f8h0OEvPkqw?e=M7ItiH)
-- [Esami 18/06/2025 (progetto)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ER85ngXQ1DVBg4n_Ddl162IBSxDadPckmJIldfVXR1hUAw?e=1ahPfQ)
-- [Esami 26/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ66xFRS9HpHhA3B6cYvOXwBkQKD0dwVwjvP8keBsYvf-g?e=3lSMmh)
+- [Esito prova in itinere 17/04/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea9Mzx1M2zxNnI9T3aChdUEBxjN2py-j2WcVVcAdV-pMHw?e=pmalFR)
+- [Esito esami 13/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbXdEwFx7wNEve1d5yTyg0QBpmFNUYKASby5Bf88cG_Pvg?e=vUA4ZZ)
+- [Esito esami 18/06/2025 (prove in itinere)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ8P35iHhTdArP8B_mjhnc0BdXcntvt0DP_f8h0OEvPkqw?e=M7ItiH)
+- [Esito esami 18/06/2025 (progetto)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ER85ngXQ1DVBg4n_Ddl162IBSxDadPckmJIldfVXR1hUAw?e=1ahPfQ)
+- [Esito esami 26/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ66xFRS9HpHhA3B6cYvOXwBkQKD0dwVwjvP8keBsYvf-g?e=3lSMmh)
+- [Esito esami 11/07/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESqMrJsVD5JCki-fFvQUWEoBuSmf9Mqceas8nvg9Gxphmg?e=YsKPjZ)
 
 # ESAME
 
