@@ -25,6 +25,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 - [Esito esami 18/06/2025 (progetto)](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ER85ngXQ1DVBg4n_Ddl162IBSxDadPckmJIldfVXR1hUAw?e=1ahPfQ)
 - [Esito esami 26/06/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZ66xFRS9HpHhA3B6cYvOXwBkQKD0dwVwjvP8keBsYvf-g?e=3lSMmh)
 - [Esito esami 11/07/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESqMrJsVD5JCki-fFvQUWEoBuSmf9Mqceas8nvg9Gxphmg?e=YsKPjZ)
+- [Esito esami 03/09/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUflbvcEY29DmsAth6vX0_0BTzTpXG4qD3Tcpqe5s8b3yQ?e=fc2f2M)
 
 # ESAME
 
