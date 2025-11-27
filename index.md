@@ -42,6 +42,7 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 - **11/07/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EdzQvSK97TZMuJD1ovatVWgBotTkV4ZV-6g4Uc11nPrqUg?e=8FbX4A)
 - **03/09/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQ2Smhbc3kBJizI63lnh-tAB_eqHgQos5b9u6BDn2RHcZQ?e=O99RfF)
 - **25/09/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EciOr7OeURxGjLdVPZFhrssBd41YgK9d1UPBNH8erXemvg?e=G20rlQ)
+- **28/11/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbtGXvKIwgVInREg4zzfkekBhVxFJ6A1XVgHOSFOHfo5LA?e=Q7TTSY)
 
 ---
 
