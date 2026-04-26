@@ -28,6 +28,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 - [Esito esami 03/09/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUflbvcEY29DmsAth6vX0_0BTzTpXG4qD3Tcpqe5s8b3yQ?e=fc2f2M)
 - [Esito esami 25/09/2025](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbrzFK-yaxJOoabF8nAHucgBcFaBONQ6YJGuEzeyXriVsQ?e=ImTGCk)
 
+
 # ESAME
 
 L'esame consiste in due fasi:
