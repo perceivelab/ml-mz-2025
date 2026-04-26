@@ -45,7 +45,7 @@ Le specifiche del progetto verranno assegnate il giorno dell'appello d'esame, e 
 - **28/11/2025**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EbtGXvKIwgVInREg4zzfkekBhVxFJ6A1XVgHOSFOHfo5LA?e=Q7TTSY)
 - **23/01/2026**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/IQC20MifP5xFSIcHqNhTkSngASAgYaM1qFP3xFL4ZQ2fs3c?e=Rw6xVO)
 - **09/02/2026**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/IQCUyRg41hzQSa4G9I8x9yEfAQx6mOvkVL1Dhh50eJOopSI?e=SzQFld)
-
+- **28/04/2026**: [testo](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/IQDk0rHfi2vgTbZcO-Do-0y4AcLJr9UMhZwAEqaaHJahdYg?e=mh9BRI)
 ---
 
 # PROVE IN ITINERE
